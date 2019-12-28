@@ -1,0 +1,14 @@
+{
+"companyName": "HackzCo",
+"productName": "SketchyWebGL",
+"dataUrl": "PhotonWebGLunity.data.unityweb",
+"asmCodeUrl": "PhotonWebGLunity.asm.code.unityweb",
+"asmMemoryUrl": "PhotonWebGLunity.asm.memory.unityweb",
+"asmFrameworkUrl": "PhotonWebGLunity.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FED280",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
